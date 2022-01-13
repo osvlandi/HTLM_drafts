@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- 
+This file showcases a template for links in HTML
+-->
+
+  <body>
+  
+    <h1>This is a header</h1>
+    <div>
+      <p>First paragraph</p>
+      <a href="https://www.google.com">Google</a>
+      <p>Second paragraph</p>
+    </div>
+
+  </body>
+
+</html>
