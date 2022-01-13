@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- 
+This is a file to practice HTML trees
+
+Here, <body> is the parent, and has two childs: <h1> and <div>
+
+And <div> has two <p> childs
+-->
+
+  <body>
+  
+    <h1>This is a header</h1>
+    <div>
+      <p>First paragraph</p>
+      <p>Second paragraph</p>
+    </div>
+
+  </body>
+
+</html>
